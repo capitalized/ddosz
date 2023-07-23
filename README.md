@@ -1,6 +1,7 @@
 <div align=center>
  
-#  U-DDOS: Release v1.4 - FREE DDOS PANEL
+## 🚀U-DDOS: RELEASE V1.4
+## FREE DDOS PANEL.🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/U7P4L-IN/U-DDOS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -70,6 +71,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
+rm -rf U-DDOS
 git clone https://github.com/U7P4L-IN/U-DDOS/
 cd U-DDOS/
 npm i requests
