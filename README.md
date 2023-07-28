@@ -25,7 +25,12 @@
  - Hi all, There Are Fools Scam Tool Github For 20usd
 
 ## Screenshot
+<div align=center>
+ 
 ![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
+
+![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/ScreenShot_20230728185732.png
+)
 
 # Tree
 * [Read now pls](#README)
