@@ -75,7 +75,8 @@ sudo apt-get install npm -y
 How to use: 
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
-
+```
+```python
 rm -rf U-DDOS
 git clone https://github.com/U7P4L-IN/U-DDOS/
 cd U-DDOS/
