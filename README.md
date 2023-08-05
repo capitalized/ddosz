@@ -99,6 +99,8 @@ ulimit -n 999999
 chmod 777 *
 python3 U-DDOS.py
 ```
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Warning.gif">
+ 
 # TOS:
 ```sh
 Do Not Attack Government Pages (.Gov/.Gob), Educational Pages (.Edu) Or The United States Department Of Defense (.Mil), 
