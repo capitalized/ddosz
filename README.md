@@ -11,7 +11,7 @@
 </p>
 
 > Terminal Only Accepts Ansi Color.<br>
-> Username: ? <br>
+> Username: U7P4L <br>
 > Password: ? <br>
 <p align="center">  <a href="https://t.me/AN0NYM0U5_X"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
