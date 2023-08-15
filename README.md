@@ -1,6 +1,4 @@
-<div align=center>
- 
-![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/github-header-image%20(1).png)
+<p align="center"><img src="https://github.com/U7P4L-IN/U-DDOS/blob/main/image/github-header-image%20(1).png">
 
 <p>
  <img src="https://img.shields.io/github/stars/U7P4L-IN/U-DDOS?color=%23DF0067&style=for-the-badge"/> &nbsp;
