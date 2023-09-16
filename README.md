@@ -1,5 +1,7 @@
 <p align="center"><img src="https://github.com/U7P4L-IN/U-DDOS/blob/main/image/github-header-image%20(1).png">
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=U+DDOS&fontAlign=80&fontAlignY=40&color=gradient)
+
 <p>
  <img src="https://img.shields.io/github/stars/U7P4L-IN/U-DDOS?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/U7P4L-IN/U-DDOS?color=%239999FF&style=for-the-badge"/> &nbsp;
