@@ -2,12 +2,17 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=U+DDOS&fontAlign=80&fontAlignY=40&color=gradient)
 
-<p>
- <img src="https://img.shields.io/github/stars/U7P4L-IN/U-DDOS?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/U7P4L-IN/U-DDOS?color=%239999FF&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/license/U7P4L-IN/U-DDOS?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
- 
 </p>
+   <p align="center">
+      <a href="https://github.com/U7P4L-IN/U-DDOS/stargazers">
+      <img alt="Stargazers" src="https://img.shields.io/github/stars/U7P4L-IN/U-DDOS?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
+      <a href="https://github.com/U7P4L-IN/U-DDOS/releases/latest">
+      <img alt="Releases" src="https://img.shields.io/github/release/U7P4L-IN/U-DDOS?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
+      <a href="https://www.conventionalcommits.org/en/v1.0.0/">
+      <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
+      <a href="https://github.com/U7P4L-IN/U-DDOS/actions/workflows/github-action.yml">
+      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
+   </p>
 
 > Terminal Only Accepts Ansi Color.<br>
 > Username: U7P4L <br>
