@@ -33,7 +33,7 @@
  
 ![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
 
-![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/ScreenShot_20230813201931.png)
+![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/Screenshot%20from%202024-01-30%2004-22-50.png)
 
 # Tree
 * [Read now pls](#README)
