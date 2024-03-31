@@ -127,7 +127,7 @@ Remember: You Are Responsible For The Attacks Since This Tool Was Created For Ed
 
 # CONTACT:
 ```sh
-Telegram: @GOD_0X0
+Telegram: @TheU7p4lArmyX
 ```
 #### Tools Languages :
 
